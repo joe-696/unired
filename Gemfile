@@ -17,7 +17,7 @@ gem "sprockets-rails"
 #gem "sqlite3", "~> 1.4"
 
 # Use postgrase as the database for Active Record
-gem 'pg'
+#gem 'pg'
 
 gem "aws-sdk-s3"
 
